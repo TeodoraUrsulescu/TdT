@@ -1,0 +1,22 @@
+{
+  "name": "tdt",
+  "version": "1.0.0",
+  "description": "teren de joaca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeodoraUrsulescu/TdT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeodoraUrsulescu/TdT/issues"
+  },
+  "homepage": "https://github.com/TeodoraUrsulescu/TdT#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
